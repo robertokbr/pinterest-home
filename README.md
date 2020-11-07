@@ -43,6 +43,13 @@ Pinterest Landing  page with the animation clone made with Sass
 - Handle animations with Vanilla javaScript
 - Handle animation life cycle with javaScript
 
+## How to Use
+* Clone repository
+* Open on VSCode 
+* Install extension ```live sass compiler```
+* Open styles.scss and clique in the watching vscode option to generate the css.
+* Open the index.html
+
 Roberto Junior :wave: [Join me on Linkedin!](https://www.linkedin.com/in/robertojrcdc/)
 
 [nodejs]: https://nodejs.org/
