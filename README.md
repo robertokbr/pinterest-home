@@ -40,7 +40,8 @@ Pinterest Landing  page with the animation clone made with Sass
 
 ## Project Motivations:
 - Work with Sass to build animations
-
+- Handle animations with Vanilla javaScript
+- Handle animation life cycle with javaScript
 
 Roberto Junior :wave: [Join me on Linkedin!](https://www.linkedin.com/in/robertojrcdc/)
 
