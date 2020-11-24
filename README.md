@@ -27,9 +27,9 @@ Pinterest Landing  page with the animation clone made with Sass
 </p>
 
 
- <!-- <img src="https://github.com/robertokbr/PinterestHomePage/blob/master/.Github/signin.png"/>
-  <img src="https://github.com/robertokbr/PinterestHomePage/blob/master/.Github/signout.png"/>
- <img src="https://github.com/robertokbr/PinterestHomePage/blob/master/.Github/portail.png"/> -->
+ <img src="https://github.com/robertokbr/PinterestHomePage/blob/master/.Github/Pinterest%20Home%20Clone.gif" with="100%"/>
+ 
+ 
 
 
 # 🚧 In progress
