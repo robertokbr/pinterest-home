@@ -32,7 +32,7 @@ Pinterest Landing  page with the animation clone made with Sass
  
 
 
-# 🚧 In progress
+# 🚧 Techs
 
 - [HTML5]()
 - [Sass]()
@@ -52,8 +52,3 @@ Pinterest Landing  page with the animation clone made with Sass
 
 Roberto Junior :wave: [Join me on Linkedin!](https://www.linkedin.com/in/robertojrcdc/)
 
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
-[vc]: https://code.visualstudio.com/
-[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
